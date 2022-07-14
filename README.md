@@ -31,7 +31,7 @@ Without any changes, this app is connected to a Contentful space with read-only 
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/contentful/the-example-app.nodejs.git
+git clone https://github.com/arjun8268/nodetestapp.git
 cd the-example-app.nodejs
 ```
 
